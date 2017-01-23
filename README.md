@@ -15,15 +15,15 @@ Chapter 1. INTRODUCTION
 
 Chapter 2. RELATED WORKS
 
-2.1. Feature selection in roadway crash research
+&nbsp;&nbsp;&nbsp;&nbsp;2.1. Feature selection in roadway crash research
 
-2.2. Challenges in the modeling of crash-frequency data
+&nbsp;&nbsp;&nbsp;&nbsp;2.2. Challenges in the modeling of crash-frequency data
 
-2.3. Segmentation methods
+&nbsp;&nbsp;&nbsp;&nbsp;2.3. Segmentation methods
 
-2.4. Evolution of the modeling methodologies
+&nbsp;&nbsp;&nbsp;&nbsp;2.4. Evolution of the modeling methodologies
 
-2.5. Influence of segmentation on resulting model
+&nbsp;&nbsp;&nbsp;&nbsp;2.5. Influence of segmentation on resulting model
 
 Chapter 3. METHODOLGY
 
