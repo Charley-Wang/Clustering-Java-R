@@ -9,3 +9,30 @@ Safety performance functions (SPFs) predict the likelihood of crashes on a roadw
 
 <p></p>
   This study presents a novel approach to investigate the effect of greatly on conclusions drawn from this modelling. Both modeling and segmentation parameters are extremely sensitive to initial conditions. It indicates that resulting models likely exhibit poor transferability, and biases that researchers bring to modelling can greatly affect the conclusions that they draw.
+  
+## Table oF Contents
+##### List of Tables
+##### List of Figures
+List of Abbreviations
+Acknowledgements
+Chapter 1. INTRODUCTION
+Chapter 2. RELATED WORKS
+2.1. Feature selection in roadway crash research
+2.2. Challenges in the modeling of crash-frequency data
+2.3. Segmentation methods
+2.4. Evolution of the modeling methodologies
+2.5. Influence of segmentation on resulting model
+Chapter 3. METHODOLGY
+3.1. Data for segmenting and modeling
+3.2. Algorithm for segmenting and modeling
+3.3. Parameters for segmentation and modeling
+Chapter 4. RESULTS
+4.1. The performance of the system on the training dataset
+4.2. Validity in the models based on the initial parameters
+4.3. The limit of the generalizability of models
+Chapter 5. CONCLUSIONS AND FUTURE WORK
+5.1. Contributions of this thesis
+5.2. Future work
+REFERENCES
+Appendix A:	 Route Parameters
+
