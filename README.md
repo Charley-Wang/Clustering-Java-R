@@ -18,9 +18,7 @@ List of Abbreviations
 
 Acknowledgements
 
-
 Chapter 1. INTRODUCTION
-
 
 Chapter 2. RELATED WORKS
 2.1. Feature selection in roadway crash research
