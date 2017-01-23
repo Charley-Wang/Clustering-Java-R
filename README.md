@@ -10,9 +10,9 @@ Safety performance functions (SPFs) predict the likelihood of crashes on a roadw
 <p></p>
   This study presents a novel approach to investigate the effect of greatly on conclusions drawn from this modelling. Both modeling and segmentation parameters are extremely sensitive to initial conditions. It indicates that resulting models likely exhibit poor transferability, and biases that researchers bring to modelling can greatly affect the conclusions that they draw.
   
-## Table oF Contents
-##### List of Tables
-##### List of Figures
+## Table of Contents
+<p>List of Tables</p>
+<p>List of Figures</p>
 List of Abbreviations
 Acknowledgements
 Chapter 1. INTRODUCTION
