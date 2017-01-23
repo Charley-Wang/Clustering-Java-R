@@ -9,7 +9,15 @@ Safety performance functions (SPFs) predict the likelihood of crashes on a roadw
 
 <p></p>
 &nbsp;&nbsp;&nbsp;&nbsp;This study presents a novel approach to investigate the effect of greatly on conclusions drawn from this modelling. Both modeling and segmentation parameters are extremely sensitive to initial conditions. It indicates that resulting models likely exhibit poor transferability, and biases that researchers bring to modelling can greatly affect the conclusions that they draw.
-  
+
+## Novel Contributions
+<p></p>
+&nbsp;&nbsp;&nbsp;&nbsp;•	It presents a novel gradient-descent approach for roadway segmentation, which allows for different initial weights that can reflect the biases that investigators bring to these studies with respect to the importance of different roadway features on safety.
+<p></p>
+&nbsp;&nbsp;&nbsp;&nbsp;•	It introduces a new error metric for segmentation studies, Weighted Absolute Percentage Error (WAPE). WAPE has used been used in business applications for demand forecasting.  It is particularly appropriate for segmentation studies, due to its independence of number of segments and its ability to deal with excessive zeroes present in the data.
+<p></p>
+&nbsp;&nbsp;&nbsp;&nbsp;•	It uses the spatial clustering algorithm to illustrate the extent to which emphasizing the importance of different features in the clustering can affect the resulting SPFs.  The significant effect suggests inherent limitations in the transferability of the resulting models.
+
 ## Table of Contents
 Chapter 1. INTRODUCTION
 
